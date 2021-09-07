@@ -1,0 +1,3 @@
+[submodule "server/resources/[vrp]"]
+	path = server/resources/[vrp]
+	url = https://github.com/VentureRP/vrp.git
